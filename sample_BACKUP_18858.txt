@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Sample text file form feature1
+=======
+This is the sample file from feature2
+>>>>>>> feature2
